@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\gradle",
+    "\\gradle\\wrapper",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\ui"
+  ],
+  "SelectedNode": "\\src\\main\\java\\ui\\MainFX.java",
+  "PreviewInSolutionExplorer": false
+}

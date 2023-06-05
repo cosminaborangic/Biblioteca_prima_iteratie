@@ -1,0 +1,1 @@
+jdbc:sqlite:C:\Users\Cosmina\Desktop\Laborator_4_5\Biblioteca_prima_iteratie\Library\farmacie.db
